@@ -1,0 +1,1 @@
+SELECT * FROM distribution_sales;
